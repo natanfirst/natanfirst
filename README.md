@@ -2,7 +2,7 @@
 
 # Hey 👋
 
-My name is Natan Alves and i have 19 years old, and I am from Brazil. 🇧🇷
+My name is Natan Alves and i have 19 years old, and I'm from Brazil. 🇧🇷
 
 I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
 
